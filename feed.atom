@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-15T09:45:35.839Z</id>
+    <id>urn:2021-11-15T09:53:52.048Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T09:45:35.839Z</updated>
+    <updated>2021-11-15T09:53:52.048Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -55,6 +55,15 @@ The post Interactive Rebase: Clean up your Commit History appeared first on CSS-
         <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Occam]]></title>
+        <id>https://xkcd.com/2541/</id>
+        <link href="https://xkcd.com/2541/"/>
+        <updated>2021-11-12T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -217,6 +226,15 @@ The post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tric
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TTSLTSWBD]]></title>
+        <id>https://xkcd.com/2540/</id>
+        <link href="https://xkcd.com/2540/"/>
+        <updated>2021-11-10T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
         <id>https://css-tricks.com/?p=356142</id>
         <link href="https://css-tricks.com/detecting-specific-text-input-with-html-and-css/"/>
@@ -318,6 +336,15 @@ The post Does the Next Generation of Static Site Generators Make Building Sites 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flinch]]></title>
+        <id>https://xkcd.com/2539/</id>
+        <link href="https://xkcd.com/2539/"/>
+        <updated>2021-11-08T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Favicons: How to Make Sure Browsers Only Download the SVG Version]]></title>
         <id>https://css-tricks.com/?p=355780</id>
         <link href="https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/"/>
@@ -338,6 +365,15 @@ The post Favicons: How to Make Sure Browsers Only Download the SVG Version appea
         <summary type="html"><![CDATA[Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snack]]></title>
+        <id>https://xkcd.com/2538/</id>
+        <link href="https://xkcd.com/2538/"/>
+        <updated>2021-11-05T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
