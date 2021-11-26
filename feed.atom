@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-25T01:10:06.751Z</id>
+    <id>urn:2021-11-26T01:08:16.715Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-25T01:10:06.751Z</updated>
+    <updated>2021-11-26T01:08:16.715Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -104,6 +104,15 @@ The post Creating Generative Patterns with The CSS Paint API appeared first on C
         <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiction vs Nonfiction]]></title>
+        <id>https://xkcd.com/2546/</id>
+        <link href="https://xkcd.com/2546/"/>
+        <updated>2021-11-24T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -394,15 +403,6 @@ The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can supp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daylight Calendar]]></title>
-        <id>https://xkcd.com/2542/</id>
-        <link href="https://xkcd.com/2542/"/>
-        <updated>2021-11-15T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
         <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
         <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
@@ -530,16 +530,6 @@ The post The Gap (Design Engineering) appeared first on CSS-Tricks. You can supp
         <summary type="html"><![CDATA[The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Robert Sfichi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eye-Tracking In Mobile UX Research]]></title>
-        <id>https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/</id>
-        <link href="https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/"/>
-        <updated>2021-10-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mariana Macedo)</name>
         </author>
     </entry>
 </feed>
