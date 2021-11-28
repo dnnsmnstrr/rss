@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-27T01:07:40.970Z</id>
+    <id>urn:2021-11-28T01:10:41.815Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-27T01:07:40.970Z</updated>
+    <updated>2021-11-28T01:10:41.815Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,6 +39,15 @@ The post A Handy Little System for Animated Entrances in CSS appeared first on C
         <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siren]]></title>
+        <id>https://xkcd.com/2547/</id>
+        <link href="https://xkcd.com/2547/"/>
+        <updated>2021-11-26T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -388,15 +397,6 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never Told Anyone]]></title>
-        <id>https://xkcd.com/2543/</id>
-        <link href="https://xkcd.com/2543/"/>
-        <updated>2021-11-17T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
         <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
@@ -524,16 +524,6 @@ The post What do you get for using a search input type? appeared first on CSS-Tr
         <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Resources And Tools To Turbocharge Your Copywriting Skills]]></title>
-        <id>https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/</id>
-        <link href="https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/"/>
-        <updated>2021-10-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Freya Giles)</name>
         </author>
     </entry>
 </feed>
