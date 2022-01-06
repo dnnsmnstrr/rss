@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-05T01:17:24.559Z</id>
+    <id>urn:2022-01-06T01:22:11.443Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-05T01:17:24.559Z</updated>
+    <updated>2022-01-06T01:22:11.444Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=359736</id>
+        <link href="https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/"/>
+        <updated>2022-01-05T21:22:45.000Z</updated>
+        <summary type="html"><![CDATA[We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. 
+We’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …
+Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Accessibility Errors and How To Fix Them]]></title>
+        <id>61c53829755c16082490a517</id>
+        <link href="https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/"/>
+        <updated>2022-01-05T21:15:24.000Z</updated>
+        <summary type="html"><![CDATA[The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up AWS Cognito Authentication with Serverless and NodeJS]]></title>
+        <id>61d2fb81d2d9de084285afb4</id>
+        <link href="https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/"/>
+        <updated>2022-01-05T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI Design with Figma - Tutorial]]></title>
+        <id>61d5d077d2d9de084285c670</id>
+        <link href="https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/"/>
+        <updated>2022-01-05T18:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a Naive Bayes Classifier with Rust]]></title>
+        <id>61c60601755c16082490aa7f</id>
+        <link href="https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/"/>
+        <updated>2022-01-05T17:53:04.000Z</updated>
+        <summary type="html"><![CDATA[I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rename a Local and Remote Branch in Git]]></title>
+        <id>61d1d7fda7001508889341ad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/"/>
+        <updated>2022-01-05T17:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Component That Supports Multiple Frameworks in a Monorepo]]></title>
+        <id>https://css-tricks.com/?p=360239</id>
+        <link href="https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/"/>
+        <updated>2022-01-05T15:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!
+This idea is very important to me. I’ve been working on a component library called …
+How to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rob Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
+        <updated>2022-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshield]]></title>
+        <id>https://xkcd.com/2564/</id>
+        <link href="https://xkcd.com/2564/"/>
+        <updated>2022-01-05T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
         <id>61d392f6d2d9de084285b76f</id>
@@ -69,46 +162,6 @@ Should CSS Override Default Browser Styles? originally published on CSS-Tricks. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Beautiful Box Shadows in HTML and CSS]]></title>
-        <id>61d1a886a700150888933e3c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-beautiful-box-shadows-in-html-and-css/"/>
-        <updated>2022-01-04T16:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Whenever you're designing a card in HTML, box shadows play a vital role in making the cards stand out.  Whether its a pricing page card or even an e-commerce product listing card, box shadows can make or break the look and the entire message that that cards need to convey.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Git Works Under the Hood]]></title>
-        <id>6176cded33422e07df363fa2</id>
-        <link href="https://www.freecodecamp.org/news/git-under-the-hood/"/>
-        <updated>2022-01-04T16:34:00.000Z</updated>
-        <summary type="html"><![CDATA[As developers, we all use some form of version control system, and the most popular one is Git.  A lot of us use Git, but very few know how it really works under the hood. We mostly just use it with a GUI client or the ones built into our]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Search Functionality to a Frontend Application]]></title>
-        <id>61c05f65aabf6478ea746281</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-search-to-frontend-app/"/>
-        <updated>2022-01-04T16:28:58.000Z</updated>
-        <summary type="html"><![CDATA[As a software developer, part of your job is to deliver the best user experience possible to those using your site or product.  And building a helpful and efficient search function is one way you can do this. So if you are looking for the right way to build out]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automount a Storage Partition on Startup in Linux]]></title>
-        <id>61c55981755c16082490a553</id>
-        <link href="https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/"/>
-        <updated>2022-01-04T16:09:16.000Z</updated>
-        <summary type="html"><![CDATA[By default, Linux OS does not automount any other partition at startup other than the root and the home partition.  You can mount other partitions very easily later, but you might want to enable some kind of automount feature on startup. This means that you won't need to mount them]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
         <id>https://css-tricks.com/?p=359838</id>
         <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
@@ -132,16 +185,6 @@ We use and love Jetpack around here. It’s a WordPress plugin that brings a who
 Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
-        <id>61cfe874a7001508889339e4</id>
-        <link href="https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/"/>
-        <updated>2022-01-04T00:31:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -315,30 +358,6 @@ Add a Service Worker to Your Site originally published on CSS-Tricks. You should
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our favorite Chrome extensions of 2021]]></title>
-        <id>https://css-tricks.com/?p=359860</id>
-        <link href="https://css-tricks.com/our-favorite-chrome-extensions-of-2021/"/>
-        <updated>2021-12-28T16:11:35.000Z</updated>
-        <summary type="html"><![CDATA[I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.
-LoomOh that’s 
-…
-Our favorite Chrome extensions of 2021 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honor prefers-color-scheme in the CSS Paint API with Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=359044</id>
-        <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
-        <updated>2021-12-27T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…
-Honor prefers-color-scheme in the CSS Paint API with Custom Properties originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Jeremy Wagner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
         <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
         <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
@@ -346,15 +365,6 @@ Honor prefers-color-scheme in the CSS Paint API with Custom Properties originall
         <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paulina Hetman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confounding Variables]]></title>
-        <id>https://xkcd.com/2560/</id>
-        <link href="https://xkcd.com/2560/"/>
-        <updated>2021-12-27T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -435,16 +445,6 @@ Honor prefers-color-scheme in the CSS Paint API with Custom Properties originall
         <summary type="html"><![CDATA[Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Links For Websites And Emails: A Guideline]]></title>
-        <id>https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/</id>
-        <link href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/"/>
-        <updated>2021-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
         </author>
     </entry>
 </feed>
