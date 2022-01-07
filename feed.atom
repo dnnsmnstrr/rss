@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-06T01:22:11.443Z</id>
+    <id>urn:2022-01-07T01:21:53.842Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T01:22:11.444Z</updated>
+    <updated>2022-01-07T01:21:53.842Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
+        <id>https://css-tricks.com/?p=360320</id>
+        <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
+        <updated>2022-01-06T22:28:46.000Z</updated>
+        <summary type="html"><![CDATA[There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.
+A New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Pie Chart Using Only CSS]]></title>
+        <id>61c63165755c16082490aaf2</id>
+        <link href="https://www.freecodecamp.org/news/css-only-pie-chart/"/>
+        <updated>2022-01-06T20:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Pie charts are common components that let you show portions of a whole, and you can use them for many different purposes.  You will find a lot of articles around building such a component, but they typically either rely on SVG or a lot of HTML elements.  In this post,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup]]></title>
+        <id>61d21460a7001508889343d7</id>
+        <link href="https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/"/>
+        <updated>2022-01-06T18:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Two years out of coding bootcamp and I had an incredible offer from one of the world’s most highly-regarded tech companies…and I declined it. On paper, it was the dream job. Heck, it would have been the most “adult” job I’d ever had in my life so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Machine Learning—PyTorch and Monai for Healthcare Imaging]]></title>
+        <id>61d716e6d2d9de084285d794</id>
+        <link href="https://www.freecodecamp.org/news/pytorch-and-monai-for-healthcare-imaging/"/>
+        <updated>2022-01-06T16:30:57.000Z</updated>
+        <summary type="html"><![CDATA[To improve your skills in machine learning and artificial intelligence, it is important to solve real-world problems. What better problem to solve then helping to save people's lives? Machine learning is being used more and more in the field of healthcare. PyTorch and Monai can be used to discover tumors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate the Material UI Data Grid in React Using Data from a REST API]]></title>
+        <id>61d4d739d2d9de084285c147</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-material-ui-data-grid-in-react-using-data-from-a-rest-api/"/>
+        <updated>2022-01-06T16:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Material UI's Data Grid is a powerful and flexible data table. It makes it easy for you to display data and perform out of the box functionalities such as editing, sorting, filtering, pagination and more. In this article, we'll discuss why you should use the Data Grid in Material UI]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide]]></title>
+        <id>6193e30c11d3cb08287a7189</id>
+        <link href="https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/"/>
+        <updated>2022-01-06T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
+        <id>https://css-tricks.com/?p=358917</id>
+        <link href="https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/"/>
+        <updated>2022-01-06T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
+The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Alex Lazar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
         <id>https://css-tricks.com/?p=359736</id>
@@ -99,36 +171,6 @@ How to Make a Component That Supports Multiple Frameworks in a Monorepo original
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
-        <id>61d392f6d2d9de084285b76f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/"/>
-        <updated>2022-01-04T23:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: "So I have a fetch function, and I'm doing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Better Git Commit Messages – A Step-By-Step Guide]]></title>
-        <id>61d1c911a700150888933fb8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/"/>
-        <updated>2022-01-04T22:34:45.000Z</updated>
-        <summary type="html"><![CDATA[When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Open Visual Studio Code From Your Terminal]]></title>
-        <id>61d3917cd2d9de084285b707</id>
-        <link href="https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/"/>
-        <updated>2022-01-04T21:13:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
         <id>https://css-tricks.com/?p=359880</id>
         <link href="https://css-tricks.com/should-css-override-default-styles/"/>
@@ -139,26 +181,6 @@ You can use CSS to override what a checkbox or radio button looks like, but if y
 Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Tag in HTML – What is Metadata and Meta Description Example]]></title>
-        <id>61c1ad52755c160824908a23</id>
-        <link href="https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/"/>
-        <updated>2022-01-04T18:52:11.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource]]></title>
-        <id>61d22dd0a700150888934505</id>
-        <link href="https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/"/>
-        <updated>2022-01-04T17:59:53.000Z</updated>
-        <summary type="html"><![CDATA[A long, long time ago – back in late November, 2021 to be precise – I wrote "A Data Analysis of IT Career Training Tool Efficacy" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -317,17 +339,6 @@ Empathetic Animation originally published on CSS-Tricks. You should get the news
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Yak Shaving and md-block, a new HTML element for Markdown]]></title>
-        <id>https://css-tricks.com/?p=359938</id>
-        <link href="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/"/>
-        <updated>2021-12-29T16:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …
-On Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
         <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
         <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
@@ -344,17 +355,6 @@ On Yak Shaving and md-block, a new HTML element for Markdown originally publishe
         <updated>2021-12-29T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add a Service Worker to Your Site]]></title>
-        <id>https://css-tricks.com/?p=359055</id>
-        <link href="https://css-tricks.com/add-a-service-worker-to-your-site/"/>
-        <updated>2021-12-28T16:14:23.000Z</updated>
-        <summary type="html"><![CDATA[One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …
-Add a Service Worker to Your Site originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Ferdinandi</name>
         </author>
     </entry>
     <entry>

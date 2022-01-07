@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360320",
+          "author": "Chris Coyier",
+          "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
+          "publishedOn": "2022-01-06T22:28:46.000Z",
+          "wordCount": 1173,
+          "title": "A New Container Query Polyfill That Just Works"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358917",
+          "author": "Alex Lazar",
+          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
+          "publishedOn": "2022-01-06T15:58:55.000Z",
+          "wordCount": 1196,
+          "title": "The Search For a Fixed Background Effect With Inline Images"
+        },
+        {
           "id": "https://css-tricks.com/?p=359736",
           "author": "Chris Coyier",
           "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
           "publishedOn": "2022-01-05T21:22:45.000Z",
-          "wordCount": 1291,
+          "wordCount": 1786,
           "title": "Notes on Josh Comeau’s Custom CSS Reset"
         },
         {
@@ -26,7 +44,7 @@
           "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
           "publishedOn": "2022-01-05T15:42:59.000Z",
-          "wordCount": 5455,
+          "wordCount": 5464,
           "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
         },
         {
@@ -35,7 +53,7 @@
           "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/should-css-override-default-styles/",
           "publishedOn": "2022-01-04T19:50:18.000Z",
-          "wordCount": 849,
+          "wordCount": 924,
           "title": "Should CSS Override Default Browser Styles?"
         },
         {
@@ -44,7 +62,7 @@
           "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nBut first, let’s acknowledge one thing:\nDefault underlines are inconsistent\nLet’s add a …\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
           "publishedOn": "2022-01-04T15:30:18.000Z",
-          "wordCount": 1150,
+          "wordCount": 1154,
           "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
         },
         {
@@ -62,7 +80,7 @@
           "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-based-fingerprinting/",
           "publishedOn": "2022-01-03T21:45:10.000Z",
-          "wordCount": 944,
+          "wordCount": 939,
           "title": "CSS-Based Fingerprinting"
         },
         {
@@ -71,7 +89,7 @@
           "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
           "publishedOn": "2022-01-03T15:12:31.000Z",
-          "wordCount": 4633,
+          "wordCount": 4628,
           "title": "How to Create a Browser Extension"
         },
         {
@@ -80,7 +98,7 @@
           "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/thank-you-2021-edition/",
           "publishedOn": "2022-01-01T17:50:59.000Z",
-          "wordCount": 3231,
+          "wordCount": 3283,
           "title": "Thank You (2021 Edition)"
         },
         {
@@ -132,24 +150,6 @@
             "length": "299371",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://css-tricks.com/?p=359938",
-          "author": "Chris Coyier",
-          "description": "Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …\nOn Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/",
-          "publishedOn": "2021-12-29T16:03:44.000Z",
-          "wordCount": 508,
-          "title": "On Yak Shaving and md-block, a new HTML element for Markdown"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359055",
-          "author": "Chris Ferdinandi",
-          "description": "One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …\nAdd a Service Worker to Your Site originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/add-a-service-worker-to-your-site/",
-          "publishedOn": "2021-12-28T16:14:23.000Z",
-          "wordCount": 3266,
-          "title": "Add a Service Worker to Your Site"
         }
       ]
     },
@@ -164,7 +164,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4073,
+          "wordCount": 4069,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -178,7 +178,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2638,
+          "wordCount": 2647,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -192,7 +192,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2366,
+          "wordCount": 2367,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -206,7 +206,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2465,
+          "wordCount": 2463,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -220,7 +220,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4238,
+          "wordCount": 4239,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -234,7 +234,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2616,
+          "wordCount": 2617,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -262,7 +262,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6024,
+          "wordCount": 6025,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -276,7 +276,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3406,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -318,7 +318,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2075,
+          "wordCount": 2083,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -347,6 +347,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c63165755c16082490aaf2",
+          "author": null,
+          "description": "Pie charts are common components that let you show portions of a whole, and you can use them for many different purposes.  You will find a lot of articles around building such a component, but they typically either rely on SVG or a lot of HTML elements.  In this post,",
+          "link": "https://www.freecodecamp.org/news/css-only-pie-chart/",
+          "publishedOn": "2022-01-06T20:41:44.000Z",
+          "wordCount": 1729,
+          "title": "How to Create a Pie Chart Using Only CSS"
+        },
+        {
+          "id": "61d21460a7001508889343d7",
+          "author": null,
+          "description": "Two years out of coding bootcamp and I had an incredible offer from one of the world’s most highly-regarded tech companies…and I declined it. On paper, it was the dream job. Heck, it would have been the most “adult” job I’d ever had in my life so",
+          "link": "https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/",
+          "publishedOn": "2022-01-06T18:13:50.000Z",
+          "wordCount": 3762,
+          "title": "Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup"
+        },
+        {
+          "id": "61d716e6d2d9de084285d794",
+          "author": null,
+          "description": "To improve your skills in machine learning and artificial intelligence, it is important to solve real-world problems. What better problem to solve then helping to save people's lives? Machine learning is being used more and more in the field of healthcare. PyTorch and Monai can be used to discover tumors",
+          "link": "https://www.freecodecamp.org/news/pytorch-and-monai-for-healthcare-imaging/",
+          "publishedOn": "2022-01-06T16:30:57.000Z",
+          "wordCount": 347,
+          "title": "Real-World Machine Learning—PyTorch and Monai for Healthcare Imaging"
+        },
+        {
+          "id": "61d4d739d2d9de084285c147",
+          "author": null,
+          "description": "Material UI's Data Grid is a powerful and flexible data table. It makes it easy for you to display data and perform out of the box functionalities such as editing, sorting, filtering, pagination and more. In this article, we'll discuss why you should use the Data Grid in Material UI",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-material-ui-data-grid-in-react-using-data-from-a-rest-api/",
+          "publishedOn": "2022-01-06T16:30:56.000Z",
+          "wordCount": 1656,
+          "title": "How to Integrate the Material UI Data Grid in React Using Data from a REST API"
+        },
+        {
+          "id": "6193e30c11d3cb08287a7189",
+          "author": null,
+          "description": "A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail",
+          "link": "https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/",
+          "publishedOn": "2022-01-06T16:12:00.000Z",
+          "wordCount": 11455,
+          "title": "Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide"
+        },
         {
           "id": "61c53829755c16082490a517",
           "author": null,
@@ -391,51 +436,6 @@
           "publishedOn": "2022-01-05T17:19:49.000Z",
           "wordCount": 444,
           "title": "How to Rename a Local and Remote Branch in Git"
-        },
-        {
-          "id": "61d392f6d2d9de084285b76f",
-          "author": null,
-          "description": "Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: \"So I have a fetch function, and I'm doing",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/",
-          "publishedOn": "2022-01-04T23:38:48.000Z",
-          "wordCount": 1906,
-          "title": "How to Handle Async Callbacks in JavaScript...Without Callbacks?"
-        },
-        {
-          "id": "61d1c911a700150888933fb8",
-          "author": null,
-          "description": "When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing",
-          "link": "https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/",
-          "publishedOn": "2022-01-04T22:34:45.000Z",
-          "wordCount": 1774,
-          "title": "How to Write Better Git Commit Messages – A Step-By-Step Guide"
-        },
-        {
-          "id": "61d3917cd2d9de084285b707",
-          "author": null,
-          "description": "In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe",
-          "link": "https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/",
-          "publishedOn": "2022-01-04T21:13:11.000Z",
-          "wordCount": 459,
-          "title": "How to Open Visual Studio Code From Your Terminal"
-        },
-        {
-          "id": "61c1ad52755c160824908a23",
-          "author": null,
-          "description": "In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up",
-          "link": "https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/",
-          "publishedOn": "2022-01-04T18:52:11.000Z",
-          "wordCount": 1463,
-          "title": "Meta Tag in HTML – What is Metadata and Meta Description Example"
-        },
-        {
-          "id": "61d22dd0a700150888934505",
-          "author": null,
-          "description": "A long, long time ago – back in late November, 2021 to be precise – I wrote \"A Data Analysis of IT Career Training Tool Efficacy\" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began",
-          "link": "https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/",
-          "publishedOn": "2022-01-04T17:59:53.000Z",
-          "wordCount": 1240,
-          "title": "Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource"
         }
       ]
     },
