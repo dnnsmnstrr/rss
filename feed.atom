@@ -1,10 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-07T01:21:53.842Z</id>
+    <id>urn:2022-01-08T01:15:12.015Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T01:21:53.842Z</updated>
+    <updated>2022-01-08T01:15:12.015Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[8 Interesting Typography Links for January 2022]]></title>
+        <id>https://css-tricks.com/?p=360711</id>
+        <link href="https://css-tricks.com/typography-links-january-2022/"/>
+        <updated>2022-01-07T22:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …
+8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Headings and IDs for Your freeCodeCamp Blog Post Table of Contents]]></title>
+        <id>61d6e37ad2d9de084285d220</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-headings-and-ids-for-your-freecodecamp-blog-posts/"/>
+        <updated>2022-01-07T21:31:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post we're going to get all the headings from a freeCodeCamp blog post to make a Table of Contents (ToC) in Ghost CMS. I recently published quite a large post here on freeCodeCamp and needed to add a table of contents to the post. There's a really good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard Not Working? How to Fix Windows 10 Keyboard Not Typing Problem]]></title>
+        <id>61d7e914d2d9de084285df19</id>
+        <link href="https://www.freecodecamp.org/news/keyboard-not-working-how-to-fix-windows-10-keyboard-not-typing-problem/"/>
+        <updated>2022-01-07T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever sat down to write some code or browse the internet, only to discover that your keyboard isn't working?  When your keyboard fails to work, it could be due to:  Physical damage Dirt Filter keys Outdated or corrupt driver Low battery (if you're using an external keyboard). You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Argyle’s Sick Mouse-Out CSS Hover Effect]]></title>
+        <id>https://css-tricks.com/?p=360113</id>
+        <link href="https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/"/>
+        <updated>2022-01-07T20:15:19.000Z</updated>
+        <summary type="html"><![CDATA[I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.
+I must’ve spent 10 minutes just staring …
+Adam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Not Equal – Does Not Equal Operator Tutorial]]></title>
+        <id>61d74f40d2d9de084285da90</id>
+        <link href="https://www.freecodecamp.org/news/python-not-equal-how-to-use-the-does-not-equal-operator/"/>
+        <updated>2022-01-07T18:16:14.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning the basics of most programming languages, you are bound to come across operators.  In this tutorial, we will talk about the not equal operator in Python and also see a few examples of how it works.  Operators and Operands in PythonBefore talking about the not equal operator,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione 🧙]]></title>
+        <id>6181e65c8bcfae07ca4e068b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/"/>
+        <updated>2022-01-07T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to work in a team with a central repository on GitHub. You will work on issues, commits, pull requests, code reviews, and more. I don't consider myself an expert on Git, but I have learned a lot about it in my first month]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Append in Python – How to Append to a List or an Array]]></title>
+        <id>61c8aeac755c16082490b36c</id>
+        <link href="https://www.freecodecamp.org/news/append-in-python-how-to-append-to-a-list-or-an-array/"/>
+        <updated>2022-01-07T17:41:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn about the .append() method in Python.  You'll also see how .append() differs from other methods used to add elements to lists.  Let's get started!  What are lists in Python? A definition for beginners An array in programming is an ordered collection of items, and all]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 Network Adapter Missing – How to Install Ethernet Driver on PC]]></title>
+        <id>61d7ed4ad2d9de084285df89</id>
+        <link href="https://www.freecodecamp.org/news/windows-10-network-adapter-missing-how-to-install-ethernet-driver-on-pc/"/>
+        <updated>2022-01-07T16:34:05.000Z</updated>
+        <summary type="html"><![CDATA[On Windows 10 and other versions of the Windows operating system, you need a network adapter to connect to the internet through a wired or wireless network.  Sometimes, you might get an error that your network adapter is missing. This can be very frustrating because you won't be able to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)]]></title>
+        <id>https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/</id>
+        <link href="https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/"/>
+        <updated>2022-01-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useRainbow()]]></title>
+        <id>https://css-tricks.com/?p=359823</id>
+        <link href="https://css-tricks.com/userainbow/"/>
+        <updated>2022-01-07T14:59:04.000Z</updated>
+        <summary type="html"><![CDATA[I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!
+However, this post is not …
+useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Rafał Pastuszak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
         <id>https://css-tricks.com/?p=360320</id>
@@ -57,16 +162,6 @@ A New Container Query Polyfill That Just Works originally published on CSS-Trick
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide]]></title>
-        <id>6193e30c11d3cb08287a7189</id>
-        <link href="https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/"/>
-        <updated>2022-01-06T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
         <id>https://css-tricks.com/?p=358917</id>
         <link href="https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/"/>
@@ -87,56 +182,6 @@ We’re in something of a new era of CSS resets where… you kind of don’t nee
 Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Accessibility Errors and How To Fix Them]]></title>
-        <id>61c53829755c16082490a517</id>
-        <link href="https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/"/>
-        <updated>2022-01-05T21:15:24.000Z</updated>
-        <summary type="html"><![CDATA[The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up AWS Cognito Authentication with Serverless and NodeJS]]></title>
-        <id>61d2fb81d2d9de084285afb4</id>
-        <link href="https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/"/>
-        <updated>2022-01-05T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI Design with Figma - Tutorial]]></title>
-        <id>61d5d077d2d9de084285c670</id>
-        <link href="https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/"/>
-        <updated>2022-01-05T18:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Naive Bayes Classifier with Rust]]></title>
-        <id>61c60601755c16082490aa7f</id>
-        <link href="https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/"/>
-        <updated>2022-01-05T17:53:04.000Z</updated>
-        <summary type="html"><![CDATA[I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Rename a Local and Remote Branch in Git]]></title>
-        <id>61d1d7fda7001508889341ad</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/"/>
-        <updated>2022-01-05T17:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -305,40 +350,6 @@ The Web is More Gooder, and Other Observations on Today’s Web Tech originally 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add Less]]></title>
-        <id>https://css-tricks.com/?p=359729</id>
-        <link href="https://css-tricks.com/add-less/"/>
-        <updated>2021-12-30T16:23:29.000Z</updated>
-        <summary type="html"><![CDATA[When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …
-Add Less originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Cassidy Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Age DAM APIs to Simplify Your Media Workflows]]></title>
-        <id>https://css-tricks.com/?p=359708</id>
-        <link href="https://css-tricks.com/new-age-dam-apis-to-simplify-your-media-workflows/"/>
-        <updated>2021-12-30T16:18:38.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-High-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …
-New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>ImageKit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empathetic Animation]]></title>
-        <id>https://css-tricks.com/?p=358975</id>
-        <link href="https://css-tricks.com/empathetic-animation/"/>
-        <updated>2021-12-29T16:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …
-Empathetic Animation originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Cassie Evans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
         <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
         <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
@@ -435,16 +446,6 @@ Empathetic Animation originally published on CSS-Tricks. You should get the news
         <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nafees Nehar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Christmas Icon Sets And Vector Elements]]></title>
-        <id>https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/</id>
-        <link href="https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/"/>
-        <updated>2021-12-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

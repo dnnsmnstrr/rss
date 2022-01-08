@@ -12,12 +12,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360711",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …\n8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typography-links-january-2022/",
+          "publishedOn": "2022-01-07T22:31:52.000Z",
+          "wordCount": 847,
+          "title": "8 Interesting Typography Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360113",
+          "author": "Geoff Graham",
+          "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
+          "publishedOn": "2022-01-07T20:15:19.000Z",
+          "wordCount": 1048,
+          "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359823",
+          "author": "Rafał Pastuszak",
+          "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/userainbow/",
+          "publishedOn": "2022-01-07T14:59:04.000Z",
+          "wordCount": 1819,
+          "title": "useRainbow()"
+        },
+        {
           "id": "https://css-tricks.com/?p=360320",
           "author": "Chris Coyier",
           "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
           "publishedOn": "2022-01-06T22:28:46.000Z",
-          "wordCount": 1173,
+          "wordCount": 1207,
           "title": "A New Container Query Polyfill That Just Works"
         },
         {
@@ -26,7 +53,7 @@
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1196,
+          "wordCount": 1720,
           "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
@@ -35,7 +62,7 @@
           "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
           "publishedOn": "2022-01-05T21:22:45.000Z",
-          "wordCount": 1786,
+          "wordCount": 1806,
           "title": "Notes on Josh Comeau’s Custom CSS Reset"
         },
         {
@@ -44,7 +71,7 @@
           "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
           "publishedOn": "2022-01-05T15:42:59.000Z",
-          "wordCount": 5464,
+          "wordCount": 5755,
           "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
         },
         {
@@ -53,7 +80,7 @@
           "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/should-css-override-default-styles/",
           "publishedOn": "2022-01-04T19:50:18.000Z",
-          "wordCount": 924,
+          "wordCount": 1076,
           "title": "Should CSS Override Default Browser Styles?"
         },
         {
@@ -62,7 +89,7 @@
           "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nBut first, let’s acknowledge one thing:\nDefault underlines are inconsistent\nLet’s add a …\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
           "publishedOn": "2022-01-04T15:30:18.000Z",
-          "wordCount": 1154,
+          "wordCount": 1173,
           "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
         },
         {
@@ -80,7 +107,7 @@
           "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-based-fingerprinting/",
           "publishedOn": "2022-01-03T21:45:10.000Z",
-          "wordCount": 939,
+          "wordCount": 937,
           "title": "CSS-Based Fingerprinting"
         },
         {
@@ -89,7 +116,7 @@
           "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
           "publishedOn": "2022-01-03T15:12:31.000Z",
-          "wordCount": 4628,
+          "wordCount": 4626,
           "title": "How to Create a Browser Extension"
         },
         {
@@ -98,7 +125,7 @@
           "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/thank-you-2021-edition/",
           "publishedOn": "2022-01-01T17:50:59.000Z",
-          "wordCount": 3283,
+          "wordCount": 3281,
           "title": "Thank You (2021 Edition)"
         },
         {
@@ -107,7 +134,7 @@
           "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/defensive-css/",
           "publishedOn": "2021-12-31T18:41:47.000Z",
-          "wordCount": 820,
+          "wordCount": 813,
           "title": "Defensive CSS"
         },
         {
@@ -116,40 +143,8 @@
           "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/",
           "publishedOn": "2021-12-30T20:08:07.000Z",
-          "wordCount": 751,
+          "wordCount": 744,
           "title": "The Web is More Gooder, and Other Observations on Today’s Web Tech"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359729",
-          "author": "Cassidy Williams",
-          "description": "When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …\nAdd Less originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/add-less/",
-          "publishedOn": "2021-12-30T16:23:29.000Z",
-          "wordCount": 966,
-          "title": "Add Less"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359708",
-          "author": "ImageKit",
-          "description": "(This is a sponsored post.)\nHigh-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …\nNew Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/new-age-dam-apis-to-simplify-your-media-workflows/",
-          "publishedOn": "2021-12-30T16:18:38.000Z",
-          "wordCount": 1790,
-          "title": "New Age DAM APIs to Simplify Your Media Workflows"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358975",
-          "author": "Cassie Evans",
-          "description": "Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …\nEmpathetic Animation originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/empathetic-animation/",
-          "publishedOn": "2021-12-29T16:04:16.000Z",
-          "wordCount": 1192,
-          "title": "Empathetic Animation",
-          "enclosure": {
-            "url": "https://videos.files.wordpress.com/DZDe6Wct/toggle-1-1.mp4",
-            "length": "299371",
-            "type": "video/mp4"
-          }
         }
       ]
     },
@@ -159,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
+          "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "publishedOn": "2022-01-07T16:00:00.000Z",
+          "wordCount": 4011,
+          "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4069,
+          "wordCount": 4083,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -178,7 +187,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2647,
+          "wordCount": 2648,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -192,7 +201,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2367,
+          "wordCount": 2369,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -206,7 +215,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2463,
+          "wordCount": 2474,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -220,7 +229,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4239,
+          "wordCount": 4235,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -234,7 +243,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2618,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -248,7 +257,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4194,
+          "wordCount": 4193,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -262,7 +271,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6025,
+          "wordCount": 6029,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -276,7 +285,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3406,
+          "wordCount": 3409,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -290,7 +299,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5464,
+          "wordCount": 5451,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -318,26 +327,12 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2083,
+          "wordCount": 2076,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
-          "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3572,
-          "title": "Free Christmas Icon Sets And Vector Elements",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -347,6 +342,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61d6e37ad2d9de084285d220",
+          "author": null,
+          "description": "In this post we're going to get all the headings from a freeCodeCamp blog post to make a Table of Contents (ToC) in Ghost CMS. I recently published quite a large post here on freeCodeCamp and needed to add a table of contents to the post. There's a really good",
+          "link": "https://www.freecodecamp.org/news/how-to-get-headings-and-ids-for-your-freecodecamp-blog-posts/",
+          "publishedOn": "2022-01-07T21:31:15.000Z",
+          "wordCount": 941,
+          "title": "How to Get Headings and IDs for Your freeCodeCamp Blog Post Table of Contents"
+        },
+        {
+          "id": "61d7e914d2d9de084285df19",
+          "author": null,
+          "description": "Have you ever sat down to write some code or browse the internet, only to discover that your keyboard isn't working?  When your keyboard fails to work, it could be due to:  Physical damage Dirt Filter keys Outdated or corrupt driver Low battery (if you're using an external keyboard). You",
+          "link": "https://www.freecodecamp.org/news/keyboard-not-working-how-to-fix-windows-10-keyboard-not-typing-problem/",
+          "publishedOn": "2022-01-07T21:00:30.000Z",
+          "wordCount": 740,
+          "title": "Keyboard Not Working? How to Fix Windows 10 Keyboard Not Typing Problem"
+        },
+        {
+          "id": "61d74f40d2d9de084285da90",
+          "author": null,
+          "description": "When you're learning the basics of most programming languages, you are bound to come across operators.  In this tutorial, we will talk about the not equal operator in Python and also see a few examples of how it works.  Operators and Operands in PythonBefore talking about the not equal operator,",
+          "link": "https://www.freecodecamp.org/news/python-not-equal-how-to-use-the-does-not-equal-operator/",
+          "publishedOn": "2022-01-07T18:16:14.000Z",
+          "wordCount": 1119,
+          "title": "Python Not Equal – Does Not Equal Operator Tutorial"
+        },
+        {
+          "id": "6181e65c8bcfae07ca4e068b",
+          "author": null,
+          "description": "In this tutorial, you will learn how to work in a team with a central repository on GitHub. You will work on issues, commits, pull requests, code reviews, and more. I don't consider myself an expert on Git, but I have learned a lot about it in my first month",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/",
+          "publishedOn": "2022-01-07T18:13:40.000Z",
+          "wordCount": 3374,
+          "title": "How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione 🧙"
+        },
+        {
+          "id": "61c8aeac755c16082490b36c",
+          "author": null,
+          "description": "In this article, you'll learn about the .append() method in Python.  You'll also see how .append() differs from other methods used to add elements to lists.  Let's get started!  What are lists in Python? A definition for beginners An array in programming is an ordered collection of items, and all",
+          "link": "https://www.freecodecamp.org/news/append-in-python-how-to-append-to-a-list-or-an-array/",
+          "publishedOn": "2022-01-07T17:41:31.000Z",
+          "wordCount": 1897,
+          "title": "Append in Python – How to Append to a List or an Array"
+        },
+        {
+          "id": "61d7ed4ad2d9de084285df89",
+          "author": null,
+          "description": "On Windows 10 and other versions of the Windows operating system, you need a network adapter to connect to the internet through a wired or wireless network.  Sometimes, you might get an error that your network adapter is missing. This can be very frustrating because you won't be able to",
+          "link": "https://www.freecodecamp.org/news/windows-10-network-adapter-missing-how-to-install-ethernet-driver-on-pc/",
+          "publishedOn": "2022-01-07T16:34:05.000Z",
+          "wordCount": 789,
+          "title": "Windows 10 Network Adapter Missing – How to Install Ethernet Driver on PC"
+        },
         {
           "id": "61c63165755c16082490aaf2",
           "author": null,
@@ -382,60 +431,6 @@
           "publishedOn": "2022-01-06T16:30:56.000Z",
           "wordCount": 1656,
           "title": "How to Integrate the Material UI Data Grid in React Using Data from a REST API"
-        },
-        {
-          "id": "6193e30c11d3cb08287a7189",
-          "author": null,
-          "description": "A developer portfolio is a great way to showcase your current skill level to potential employers.  This guide will go from hello world to a fully-featured portfolio project to show your current projects with images and links to source code. You'll also build an accompanying blog where you can detail",
-          "link": "https://www.freecodecamp.org/news/build-your-developer-portfolio-from-scratch-with-sveltekit-and-graphcms/",
-          "publishedOn": "2022-01-06T16:12:00.000Z",
-          "wordCount": 11455,
-          "title": "Build your Developer Portfolio and Blog from Scratch with Svelte and GraphCMS – A Complete Guide"
-        },
-        {
-          "id": "61c53829755c16082490a517",
-          "author": null,
-          "description": "The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the",
-          "link": "https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/",
-          "publishedOn": "2022-01-05T21:15:24.000Z",
-          "wordCount": 1635,
-          "title": "Common Accessibility Errors and How To Fix Them"
-        },
-        {
-          "id": "61d2fb81d2d9de084285afb4",
-          "author": null,
-          "description": "In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project",
-          "link": "https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/",
-          "publishedOn": "2022-01-05T20:15:00.000Z",
-          "wordCount": 1883,
-          "title": "How to Set Up AWS Cognito Authentication with Serverless and NodeJS"
-        },
-        {
-          "id": "61d5d077d2d9de084285c670",
-          "author": null,
-          "description": "Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of",
-          "link": "https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/",
-          "publishedOn": "2022-01-05T18:46:36.000Z",
-          "wordCount": 370,
-          "title": "UI Design with Figma - Tutorial"
-        },
-        {
-          "id": "61c60601755c16082490aa7f",
-          "author": null,
-          "description": "I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’",
-          "link": "https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/",
-          "publishedOn": "2022-01-05T17:53:04.000Z",
-          "wordCount": 2562,
-          "title": "How to Implement a Naive Bayes Classifier with Rust"
-        },
-        {
-          "id": "61d1d7fda7001508889341ad",
-          "author": null,
-          "description": "Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?",
-          "link": "https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/",
-          "publishedOn": "2022-01-05T17:19:49.000Z",
-          "wordCount": 444,
-          "title": "How to Rename a Local and Remote Branch in Git"
         }
       ]
     },
