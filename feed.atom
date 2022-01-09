@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-08T01:15:12.015Z</id>
+    <id>urn:2022-01-09T01:19:50.358Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-08T01:15:12.015Z</updated>
+    <updated>2022-01-09T01:19:50.358Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -108,6 +108,15 @@ However, this post is not …
 useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Rafał Pastuszak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency]]></title>
+        <id>https://xkcd.com/2565/</id>
+        <link href="https://xkcd.com/2565/"/>
+        <updated>2022-01-07T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -357,15 +366,6 @@ The Web is More Gooder, and Other Observations on Today’s Web Tech originally 
         <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonfall]]></title>
-        <id>https://xkcd.com/2561/</id>
-        <link href="https://xkcd.com/2561/"/>
-        <updated>2021-12-29T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
