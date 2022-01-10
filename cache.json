@@ -26,7 +26,7 @@
           "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
           "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1307,
+          "wordCount": 1345,
           "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
         },
         {
@@ -44,7 +44,7 @@
           "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
           "publishedOn": "2022-01-06T22:28:46.000Z",
-          "wordCount": 1207,
+          "wordCount": 1205,
           "title": "A New Container Query Polyfill That Just Works"
         },
         {
@@ -53,7 +53,7 @@
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1753,
+          "wordCount": 1825,
           "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
@@ -71,7 +71,7 @@
           "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
           "publishedOn": "2022-01-05T15:42:59.000Z",
-          "wordCount": 5755,
+          "wordCount": 5753,
           "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
         },
         {
@@ -159,7 +159,7 @@
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4003,
+          "wordCount": 4000,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -187,7 +187,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2639,
+          "wordCount": 2634,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -201,7 +201,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2371,
+          "wordCount": 2380,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -215,7 +215,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2474,
+          "wordCount": 2461,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
@@ -243,7 +243,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2616,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -257,7 +257,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4195,
+          "wordCount": 4193,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -271,7 +271,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6030,
+          "wordCount": 6027,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -299,7 +299,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5465,
+          "wordCount": 5450,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -327,7 +327,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2084,
+          "wordCount": 2075,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
