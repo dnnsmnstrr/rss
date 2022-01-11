@@ -4,13 +4,41 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 308,
+          "title": "v1.12.0"
+        }
+      ]
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=360873",
+          "author": "Chris Coyier",
+          "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
+          "publishedOn": "2022-01-10T22:02:49.000Z",
+          "wordCount": 821,
+          "title": "What is Chromium Without Chrome on Top?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359886",
+          "author": "Mads Stoumann",
+          "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
+          "publishedOn": "2022-01-10T15:22:08.000Z",
+          "wordCount": 2894,
+          "title": "Don’t Fight the Cascade, Control It!"
+        },
         {
           "id": "https://css-tricks.com/?p=360711",
           "author": "Chris Coyier",
@@ -26,7 +54,7 @@
           "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
           "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1345,
+          "wordCount": 1500,
           "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
         },
         {
@@ -35,7 +63,7 @@
           "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/userainbow/",
           "publishedOn": "2022-01-07T14:59:04.000Z",
-          "wordCount": 1819,
+          "wordCount": 1897,
           "title": "useRainbow()"
         },
         {
@@ -51,9 +79,9 @@
           "id": "https://css-tricks.com/?p=358917",
           "author": "Alex Lazar",
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
+          "link": "https://css-tricks.com/fixed-background-effect/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1825,
+          "wordCount": 1981,
           "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
@@ -86,10 +114,10 @@
         {
           "id": "https://css-tricks.com/?p=359838",
           "author": "Šime Vidas",
-          "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nBut first, let’s acknowledge one thing:\nDefault underlines are inconsistent\nLet’s add a …\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nTable of Contents\nDefault underlines are inconsistent\nLuckily, we can override the browsers’ \n…\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
           "publishedOn": "2022-01-04T15:30:18.000Z",
-          "wordCount": 1173,
+          "wordCount": 1212,
           "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
         },
         {
@@ -127,24 +155,6 @@
           "publishedOn": "2022-01-01T17:50:59.000Z",
           "wordCount": 3281,
           "title": "Thank You (2021 Edition)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360073",
-          "author": "Chris Coyier",
-          "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/defensive-css/",
-          "publishedOn": "2021-12-31T18:41:47.000Z",
-          "wordCount": 813,
-          "title": "Defensive CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359941",
-          "author": "Chris Coyier",
-          "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/",
-          "publishedOn": "2021-12-30T20:08:07.000Z",
-          "wordCount": 744,
-          "title": "The Web is More Gooder, and Other Observations on Today’s Web Tech"
         }
       ]
     },
@@ -154,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
+          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "publishedOn": "2022-01-10T12:30:00.000Z",
+          "wordCount": 2303,
+          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "author": "hello@smashingmagazine.com (Scott Himmer)",
           "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
           "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
           "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4000,
+          "wordCount": 4001,
           "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
@@ -173,7 +197,7 @@
           "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
           "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
           "publishedOn": "2022-01-05T13:00:00.000Z",
-          "wordCount": 4072,
+          "wordCount": 4068,
           "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
@@ -187,7 +211,7 @@
           "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
           "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
           "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2634,
+          "wordCount": 2638,
           "title": "Composition-Based Design System In Figma",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
@@ -201,7 +225,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2380,
+          "wordCount": 2530,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -229,7 +253,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4235,
+          "wordCount": 4241,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -271,7 +295,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6027,
+          "wordCount": 6025,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -285,7 +309,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3404,
+          "wordCount": 3417,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -299,7 +323,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5450,
+          "wordCount": 5464,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -327,7 +351,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2075,
+          "wordCount": 2085,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -343,94 +367,94 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
-          "id": "61d6e37ad2d9de084285d220",
+          "id": "61d8d033d2d9de084285e93e",
           "author": null,
-          "description": "In this post we're going to get all the headings from a freeCodeCamp blog post to make a Table of Contents (ToC) in Ghost CMS. I recently published quite a large post here on freeCodeCamp and needed to add a table of contents to the post. There's a really good",
-          "link": "https://www.freecodecamp.org/news/how-to-get-headings-and-ids-for-your-freecodecamp-blog-posts/",
-          "publishedOn": "2022-01-07T21:31:15.000Z",
-          "wordCount": 941,
-          "title": "How to Get Headings and IDs for Your freeCodeCamp Blog Post Table of Contents"
+          "description": "Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and",
+          "link": "https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/",
+          "publishedOn": "2022-01-10T21:30:48.000Z",
+          "wordCount": 2408,
+          "title": "How to Convert react-dropdown-select&#x27;s Default Value from Array to String"
         },
         {
-          "id": "61d7e914d2d9de084285df19",
+          "id": "61d54372d2d9de084285c327",
           "author": null,
-          "description": "Have you ever sat down to write some code or browse the internet, only to discover that your keyboard isn't working?  When your keyboard fails to work, it could be due to:  Physical damage Dirt Filter keys Outdated or corrupt driver Low battery (if you're using an external keyboard). You",
-          "link": "https://www.freecodecamp.org/news/keyboard-not-working-how-to-fix-windows-10-keyboard-not-typing-problem/",
-          "publishedOn": "2022-01-07T21:00:30.000Z",
-          "wordCount": 740,
-          "title": "Keyboard Not Working? How to Fix Windows 10 Keyboard Not Typing Problem"
+          "description": "If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.",
+          "link": "https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/",
+          "publishedOn": "2022-01-10T21:24:30.000Z",
+          "wordCount": 927,
+          "title": "JavaScript split() a String – String to Array JS Method"
         },
         {
-          "id": "61d74f40d2d9de084285da90",
+          "id": "61dc51e5b837d507ba09edb6",
           "author": null,
-          "description": "When you're learning the basics of most programming languages, you are bound to come across operators.  In this tutorial, we will talk about the not equal operator in Python and also see a few examples of how it works.  Operators and Operands in PythonBefore talking about the not equal operator,",
-          "link": "https://www.freecodecamp.org/news/python-not-equal-how-to-use-the-does-not-equal-operator/",
-          "publishedOn": "2022-01-07T18:16:14.000Z",
-          "wordCount": 1119,
-          "title": "Python Not Equal – Does Not Equal Operator Tutorial"
+          "description": "So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If",
+          "link": "https://www.freecodecamp.org/news/react-beginners-guide/",
+          "publishedOn": "2022-01-10T21:15:23.000Z",
+          "wordCount": 2335,
+          "title": "The React Beginner&#x27;s Guide for 2022"
         },
         {
-          "id": "6181e65c8bcfae07ca4e068b",
+          "id": "61d18c23a700150888933e31",
           "author": null,
-          "description": "In this tutorial, you will learn how to work in a team with a central repository on GitHub. You will work on issues, commits, pull requests, code reviews, and more. I don't consider myself an expert on Git, but I have learned a lot about it in my first month",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/",
-          "publishedOn": "2022-01-07T18:13:40.000Z",
-          "wordCount": 3374,
-          "title": "How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione 🧙"
+          "description": "In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m \"Empty-Commit\"You will now need",
+          "link": "https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/",
+          "publishedOn": "2022-01-10T21:04:19.000Z",
+          "wordCount": 358,
+          "title": "How to Push an Empty Commit in Git"
         },
         {
-          "id": "61c8aeac755c16082490b36c",
+          "id": "61c8e4b1755c16082490b4e4",
           "author": null,
-          "description": "In this article, you'll learn about the .append() method in Python.  You'll also see how .append() differs from other methods used to add elements to lists.  Let's get started!  What are lists in Python? A definition for beginners An array in programming is an ordered collection of items, and all",
-          "link": "https://www.freecodecamp.org/news/append-in-python-how-to-append-to-a-list-or-an-array/",
-          "publishedOn": "2022-01-07T17:41:31.000Z",
-          "wordCount": 1897,
-          "title": "Append in Python – How to Append to a List or an Array"
+          "description": "During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss",
+          "link": "https://www.freecodecamp.org/news/what-is-serialization/",
+          "publishedOn": "2022-01-10T21:00:00.000Z",
+          "wordCount": 1132,
+          "title": "What is Serialization?"
         },
         {
-          "id": "61d7ed4ad2d9de084285df89",
+          "id": "61d98981d2d9de084285ed1d",
           "author": null,
-          "description": "On Windows 10 and other versions of the Windows operating system, you need a network adapter to connect to the internet through a wired or wireless network.  Sometimes, you might get an error that your network adapter is missing. This can be very frustrating because you won't be able to",
-          "link": "https://www.freecodecamp.org/news/windows-10-network-adapter-missing-how-to-install-ethernet-driver-on-pc/",
-          "publishedOn": "2022-01-07T16:34:05.000Z",
-          "wordCount": 789,
-          "title": "Windows 10 Network Adapter Missing – How to Install Ethernet Driver on PC"
+          "description": "In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way",
+          "link": "https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/",
+          "publishedOn": "2022-01-10T20:02:45.000Z",
+          "wordCount": 2436,
+          "title": "Text Box in HTML – The Input Field HTML Tag"
         },
         {
-          "id": "61c63165755c16082490aaf2",
+          "id": "61dc8201b837d507ba09f359",
           "author": null,
-          "description": "Pie charts are common components that let you show portions of a whole, and you can use them for many different purposes.  You will find a lot of articles around building such a component, but they typically either rely on SVG or a lot of HTML elements.  In this post,",
-          "link": "https://www.freecodecamp.org/news/css-only-pie-chart/",
-          "publishedOn": "2022-01-06T20:41:44.000Z",
-          "wordCount": 1729,
-          "title": "How to Create a Pie Chart Using Only CSS"
+          "description": "React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight",
+          "link": "https://www.freecodecamp.org/news/free-react-course-2022/",
+          "publishedOn": "2022-01-10T19:10:48.000Z",
+          "wordCount": 495,
+          "title": "Free React Course for 2022"
         },
         {
-          "id": "61d21460a7001508889343d7",
+          "id": "61d99c82d2d9de084285ee28",
           "author": null,
-          "description": "Two years out of coding bootcamp and I had an incredible offer from one of the world’s most highly-regarded tech companies…and I declined it. On paper, it was the dream job. Heck, it would have been the most “adult” job I’d ever had in my life so",
-          "link": "https://www.freecodecamp.org/news/why-i-turned-down-a-six-figure-salary-in-big-tech-to-stay-at-a-five-person-startup/",
-          "publishedOn": "2022-01-06T18:13:50.000Z",
-          "wordCount": 3762,
-          "title": "Why I Turned Down a Six-Figure Salary in Big Tech to Stay at a Five-Person Startup"
+          "description": "I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first",
+          "link": "https://www.freecodecamp.org/news/build-your-first-javascript-github-action/",
+          "publishedOn": "2022-01-10T17:36:34.000Z",
+          "wordCount": 2555,
+          "title": "How to Build Your First JavaScript GitHub Action"
         },
         {
-          "id": "61d716e6d2d9de084285d794",
+          "id": "61d81b30d2d9de084285e181",
           "author": null,
-          "description": "To improve your skills in machine learning and artificial intelligence, it is important to solve real-world problems. What better problem to solve then helping to save people's lives? Machine learning is being used more and more in the field of healthcare. PyTorch and Monai can be used to discover tumors",
-          "link": "https://www.freecodecamp.org/news/pytorch-and-monai-for-healthcare-imaging/",
-          "publishedOn": "2022-01-06T16:30:57.000Z",
-          "wordCount": 347,
-          "title": "Real-World Machine Learning—PyTorch and Monai for Healthcare Imaging"
+          "description": "Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/",
+          "publishedOn": "2022-01-10T16:13:35.000Z",
+          "wordCount": 1211,
+          "title": "How to Make a Custom Mouse Cursor with CSS and JavaScript"
         },
         {
-          "id": "61d4d739d2d9de084285c147",
+          "id": "61d5406cd2d9de084285c2ef",
           "author": null,
-          "description": "Material UI's Data Grid is a powerful and flexible data table. It makes it easy for you to display data and perform out of the box functionalities such as editing, sorting, filtering, pagination and more. In this article, we'll discuss why you should use the Data Grid in Material UI",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-material-ui-data-grid-in-react-using-data-from-a-rest-api/",
-          "publishedOn": "2022-01-06T16:30:56.000Z",
-          "wordCount": 1656,
-          "title": "How to Integrate the Material UI Data Grid in React Using Data from a REST API"
+          "description": "So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one",
+          "link": "https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/",
+          "publishedOn": "2022-01-10T14:52:54.000Z",
+          "wordCount": 1446,
+          "title": "How to Maintain an Open Source Project – Best Practices and Tips"
         }
       ]
     },
@@ -439,6 +463,15 @@
       "feedUrl": "https://xkcd.com/rss.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2566/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2566/",
+          "publishedOn": "2022-01-10T05:00:00.000Z",
+          "wordCount": 192,
+          "title": "Decorative Constants"
+        },
         {
           "id": "https://xkcd.com/2565/",
           "author": null,
@@ -465,18 +498,9 @@
           "publishedOn": "2022-01-03T05:00:00.000Z",
           "wordCount": 196,
           "title": "Throat and Nasal Passages"
-        },
-        {
-          "id": "https://xkcd.com/2562/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2562/",
-          "publishedOn": "2021-12-31T05:00:00.000Z",
-          "wordCount": 192,
-          "title": "Formatting Meeting"
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
